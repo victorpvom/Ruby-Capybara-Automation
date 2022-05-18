@@ -1,0 +1,8 @@
+- page.title
+Pega o titulo da página
+
+- .find()
+Esse método retorna somente um elemento, caso tenha mais de um, haverá um erro
+
+- .all()
+Retorna um array de elementos
